@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hi :)",
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Hannah Chea.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I'm a recent UC Berkeley graduate with a passion for ",
+    "highlight": "data science, ethnic studies, and pop culture",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Twitter", "Mail"],
+    "showIcons": true
   }
 }

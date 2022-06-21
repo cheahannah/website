@@ -1,13 +1,12 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "email": "cheahannah@berkeley.edu",
+  "description": "Feel free to connect with me on social media and ask me about anything! I don't bite! :)",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/me2.jpg",
+    "alt": "Hannah Chea funny face"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Twitter", "Mail"],
     "showIcons": true
   }
 }

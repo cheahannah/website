@@ -2,46 +2,79 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "2021",
+      "title": "Climate Change and Valley Fever",
+      "description": "Conducted statistical data research experiment to explore how different environmental aspects of climate change affected the number of valley fever cases in the southwestern US.",
+      "tags": ["Python", "Statistics"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/valleyfever.jpg",
+        "alt": "Valley fever map of Southwest United States",
+        "linkTo": "https://github.com/cheahannah/climate-change-and-valley-fever/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/cheahannah/climate-change-and-valley-fever/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "2019",
+      "title": "Predicting Taxi Ride Duration",
+      "description": "This project was for my class at UC Berkeley called Data 100 (Principles and Techniques of Data Science). I created a regression model that predicts the travel time of a taxi ride in New York.",
+      "tags": ["Python", "SQL", "Jupyter Notebookes"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/taxi.jpg",
+        "alt": "Yellow Taxi Cab in Traffic",
+        "linkTo": "https://github.com/cheahannah/predicting-taxi-ride-duration/blob/master/Predicting%20Taxi%20Ride%20Duration.ipynb"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/cheahannah/predicting-taxi-ride-duration/blob/master/Predicting%20Taxi%20Ride%20Duration.ipynb"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "2019",
+      "title": "Presidential Twitter Behavior",
+      "description": "This project was for my class at UC Berkeley called Data 100 (Principles and Techniques of Data Science). I worked with Twitter data to analyze Donald Trump's tweets using sentiment analysis.",
+      "tags": ["Python"],
+      "image": {
+        "src": "../../images/twitter2.jpg",
+        "alt": "Twitter",
+        "linkTo": "https://github.com/cheahannah/presidential-twitter-behavior/blob/master/Presidential_Twitter_Behavior.ipynb"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cheahannah/presidential-twitter-behavior/blob/master/Presidential_Twitter_Behavior.ipynb"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "2019",
+      "title": "Reported Laser Pointings at Aircrafts",
+      "description": "Utilized Tableau and Excel to clean and manipulate data set to explore trends of illegal aircraft laser pointings.",
+      "tags": ["Tableau", "Excel"],
+      "image": {
+        "src": "../../images/laser.PNG",
+        "alt": "Tableau visualization",
+        "linkTo": "https://public.tableau.com/profile/hannah8349#!/vizhome/LasterChaserReportedLaserPointingsatAircraftsfrom2013to2017/LaserChaser"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://public.tableau.com/profile/hannah8349#!/vizhome/LasterChaserReportedLaserPointingsatAircraftsfrom2013to2017/LaserChaser"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
