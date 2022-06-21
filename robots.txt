@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://cheahannah.me/sitemap/sitemap-index.xml
+Host: cheahannah.me
